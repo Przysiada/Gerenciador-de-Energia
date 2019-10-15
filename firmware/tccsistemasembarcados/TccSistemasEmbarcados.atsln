@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TccSistemasEmbarcados", "TccSistemasEmbarcados\TccSistemasEmbarcados.cproj", "{709C666F-E43D-421C-B6A0-D4B7873C1A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709C666F-E43D-421C-B6A0-D4B7873C1A7E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{709C666F-E43D-421C-B6A0-D4B7873C1A7E}.Debug|AVR.Build.0 = Debug|AVR
+		{709C666F-E43D-421C-B6A0-D4B7873C1A7E}.Release|AVR.ActiveCfg = Release|AVR
+		{709C666F-E43D-421C-B6A0-D4B7873C1A7E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
